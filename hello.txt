@@ -3,3 +3,4 @@ git add .
 git remote add origin - link
 git commit -m "Initial commit"
 git push origin master
+why are you gay?
